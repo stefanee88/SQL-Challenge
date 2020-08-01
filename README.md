@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
@@ -100,3 +101,6 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+# SQL-Challenge
+>>>>>>> fb5d80515e9a623964e922fa8edff0915f6e0441
